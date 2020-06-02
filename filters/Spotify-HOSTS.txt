@@ -1370,7 +1370,8 @@
 0.0.0.0 cs41.wac.edgecastcdn.net
 0.0.0.0 cs410.wac.edgecastcdn.net
 0.0.0.0 cs434.wac.edgecastcdn.net
-0.0.0.0 cs439.wpc.4d34.edgecastcdn.net
+# required for deemix
+#0.0.0.0 cs439.wpc.4d34.edgecastcdn.net
 0.0.0.0 cs550.wac.edgecastcdn.net
 0.0.0.0 cs561.wac.edgecastcdn.net
 0.0.0.0 cs571.wac.edgecastcdn.net
